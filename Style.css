@@ -166,7 +166,7 @@ nav ul li a:hover{
         /* background-color: black; */
         background: url( rr1.jpg);
         max-width: 100vw;
-        max-height: 100vh;
+        max-height: 50vh;
         background-repeat: no-repeat;
         background-size:cover;
         /* background-position: fixed; */
